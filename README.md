@@ -2,9 +2,9 @@
 # Projektname: Versicherungsdatensatz-Analyse
 
 Autoren:
-Sarah Müller
-Rick Schmidt
-[Dein Name]
+Sarah
+Rick
+Alex
 
 ## Beschreibung:
 Dieses Projekt befasst sich mit der Analyse eines Versicherungsdatensatzes. Der Datensatz enthält Informationen über Kunden wie Alter, Geschlecht, BMI, Anzahl der Kinder, Raucherstatus, Region und Versicherungskosten. Ziel des Projekts ist es, Einblicke in die Daten zu gewinnen und verschiedene Analysemethoden anzuwenden, um Muster, Trends und Zusammenhänge zu identifizieren.
