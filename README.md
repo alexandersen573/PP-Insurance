@@ -16,11 +16,15 @@ results/: Enthält Ergebnisse der Datenanalyse wie Grafiken, Statistiken usw.
 README.md: Diese Datei enthält eine Beschreibung des Projekts.
 
 ### Anforderungen:
-Python 3
-Pandas
-NumPy
 Matplotlib
+NumPy
+Pandas
+Plotly.express
+Python 3
+Researchpy
+Scipy
 Seaborn
+Statmodels
 
 #### Ausführung:
 Stelle sicher, dass alle erforderlichen Python-Bibliotheken installiert sind.
